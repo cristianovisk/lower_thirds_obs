@@ -1,0 +1,6 @@
+__pycache__
+venv
+config.toml
+data.db
+subtitle.txt
+name.txt
